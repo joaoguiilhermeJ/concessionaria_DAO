@@ -1,0 +1,2 @@
+cd ~/Documentos/Backup\ PC/Loja\ de\ Motos/src
+java -cp ".:../lib/postgresql-42.7.7.jar" Main
